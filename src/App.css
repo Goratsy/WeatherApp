@@ -1,0 +1,16 @@
+.navbar-shadow {
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.11);
+}
+
+.my-shadow {
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.13);
+}
+
+.goratsyLogo {
+  background-image: url('./utils/goratsy.jpg');
+  background-size: cover;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+
+}

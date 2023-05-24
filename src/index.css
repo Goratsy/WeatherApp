@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0px 10px 100px 0px;
+  font-family: sans-serif;
+  background-image: url('./utils/bgWeather23p.jpg');
+  background-size: cover;
+  background-repeat: repeat;
+
+}
+
+/* body::before {
+  content: "";
+  
+  
+  opacity: 0.08;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+
+  height: 2000px;
+} */
